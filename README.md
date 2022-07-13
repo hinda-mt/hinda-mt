@@ -15,7 +15,3 @@ IG: @hen__yea6 (https://www.instagram.com/hen__yea6/)
 Kaggle: https://www.kaggle.com/mellitihinda
 
 Discord: 𝒽ℯⁿ 🦋#1616
-
-hinda-mt/hinda-mt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
